@@ -12,3 +12,6 @@ git commit -m"message"<br>
 git branch -M main<br>
 git remote add origin (url)<br>
 git push -u origin main<br> 
+git branch is used to know the branch
+git branch '(newbranch)' is used to create a new branch
+git checkout '(name of branch)'is used to change the branch
