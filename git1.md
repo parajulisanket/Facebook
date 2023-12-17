@@ -6,9 +6,9 @@ Taught by Mr. Umesh Regmi
 3.git status
 
 steps:
-git init
-git add README.md
-git commit -m"message"
-git branch -M main
-git remote add origin (url)
-git push -u origin main 
+git init<br>
+git add README.md<br>
+git commit -m"message"<br>
+git branch -M main<br>
+git remote add origin (url)<br>
+git push -u origin main<br> 
